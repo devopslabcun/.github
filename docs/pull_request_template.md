@@ -1,11 +1,11 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
-Describe your changes in detail
+<!--- Describe your changes in detail -->
 
 ## Motivation and Context
-- Why is this change required? What problem does it solve?
-- If it fixes an open issue, please link to the issue here.
+<!--- Why is this change required? What problem does it solve? -->
+<!--- If it fixes an open issue, please link to the issue here. -->
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
@@ -14,4 +14,4 @@ Describe your changes in detail
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
 ## Use AB# mention to reference to your Azure Boards work item
-For example, AB#125 to reference to work item ID 125.
+<!---For example, AB#125 to reference to work item ID 125.-->
